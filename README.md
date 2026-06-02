@@ -1,132 +1,121 @@
-# 👾 Naveen Singh
-### Graduate Cybersecurity Analyst | Auckland, NZ
+<img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=gradient&customColorList=6,11,20,29&text=Naveen&fontSize=48&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Graduate%20IT%20Professional%20%7C%20Software%20Testing%20%E2%80%A2%20Test%20Automation%20%E2%80%A2%20Software%20Development%20%E2%80%A2%20Cybersecurity&descSize=18&descAlignY=55&textBg=false"/>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/nav-aaks01)
+<p align="center">
+  <a href="https://komarev.com/ghpvc/?username=Aaks1">
+    <img src="https://komarev.com/ghpvc/?username=Aaks1&label=Profile%20views&color=00FFFF&style=flat-square" alt="Aaks1's profile views" />
+  </a>
+</p>
 
-[![Profile Views](https://komarev.com/ghpvc/?username=Aaks1&color=00b4d8&style=for-the-badge&label=PROFILE+VIEWS)](https://github.com/Aaks1)
+<img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" alt="Banner" width="100%" />
 
----
+## 📌 About Me
+- 🎓 Bachelor of Computing Systems student
+- 💻 Passionate about Software Testing, Automation, Development & Cybersecurity
+- 🧪 Hands-on experience with manual testing, test case design, and Selenium automation
+- 🔍 Strong interest in QA engineering, cloud technologies, and secure software systems
+- 🎯 Seeking Graduate roles in Software Testing, QA, Test Automation, or IT/Tech programmes
 
-## 👤 About Me
 
-- 🎓 Studying **Bachelor of Computing Systems** @ Unitec Auckland (2024–Present)
-- 🛡️ Focused on **Cybersecurity, Network Analysis & Secure Development**
-- 🔭 Practising hands-on cyber labs — Nmap, Wireshark, STRIDE, CVE/CVSS
-- ☁️ Currently studying for **Microsoft Azure AZ-900**
-- 🎯 Goal: Graduate Analyst role in **Cyber Risk & Advisory**
-- ⚡ I enjoy breaking down complex systems and understanding how things work under the hood
+## 🧠 My Focus Areas
+- Web Development
+- Software Testing & Quality Assurance
+- Cybersecurity
+- Artificial Intelligence & Machine Learning
 
----
 
-## 🔬 Cybersecurity Labs
+## 📊 GitHub Stats & Trophies
+<p align="center">
+  <a href="https://github.com/Aaks1">
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Aaks1&cache_seconds=7200&layout=compact&theme=nightowl&border_radius=10" alt="Aaks1's GitHub Stats" />
+  </a>
+  <img src="https://streak-stats.demolab.com/?user=Aaks1&theme=nightowl&hide_border=true&cache_seconds=86400" alt="Aaks1's GitHub Streak" width="49%" />
+</p>
+<p align="center">
+  <img src="https://trophy.ryglcloud.net/?username=Aaks1&theme=nightowl&no-frame=true&no-bg=true&margin-w=4&cache_seconds=86400" alt="Naveen's GitHub Trophies" />
+</p>
 
-Hands-on practice in controlled lab environments:
 
-- **Nmap** — Network reconnaissance, open port identification & attack vector mapping
-- **Wireshark** — Traffic capture, packet flow analysis & protocol anomaly detection
-- **STRIDE** — Threat modelling: spoofing, tampering, info disclosure & DoS mapping
-- **CVE / CVSS** — Vulnerability research & risk scoring from the CVE database
-- **Vulnerability Assessment** — Lab-based assessments with security improvement recommendations
+## 🛠️ Languages & Tools
 
----
+<h3 align="center">Programming Languages</h3>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" />&nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" />&nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="40" />&nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="C#" width="40" />
 
-## 🚀 Projects
+</p>
 
-### 📱 RentalX — Android Rental Management App
-> Java · Firebase · Git
+<h3 align="center">Frontend</h3>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="React" width="40" />&nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML5" width="40" />&nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS3" width="40" />&nbsp;&nbsp;
+  <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="Tailwind CSS" width="40" />&nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain.svg" alt="Bootstrap" width="40" />
 
-Full-featured Android rental app with user authentication, property listings, booking system and secure payment integration.
+</p>
 
-- 🔐 Implemented authentication & access control to reduce unauthorised access risks
-- 🗄️ Applied secure data storage principles using Firebase
-- 🔒 Considered data security and integrity throughout system design
+<h3 align="center">Backend</h3>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" alt="Express.js" width="40" />&nbsp;&nbsp;
+  <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="Django" width="40" />
 
-### 🛍️ DealHub — Deals Aggregation Platform
-> Java · Android Studio · Gradle
+</p>
 
-Multi-company deals platform with user login, deals browsing and company management.
+<h3 align="center">Database</h3>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="MySQL" width="40" />&nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" alt="MongoDB" width="40" />&nbsp;&nbsp;
+  <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="SQLite" width="40" />
 
-- 🛡️ Implemented secure login and access management across multi-tenant data
-- 🔍 Applied input validation to prevent common vulnerabilities such as injection attacks
-- 🏗️ Built with Java, Android Studio & Gradle with clean navigation
+</p>
 
-### 🌊 ParakaaiWaterPark — Booking System
-> HTML5 · CSS3 · JavaScript ES6+ · Bootstrap · XML
+<h3 align="center">DevOps & Cloud</h3>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="Docker" width="40" />&nbsp;&nbsp;
+  <img src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-icon.svg" alt="AWS" width="40" />&nbsp;&nbsp;
+  <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="Azure" width="40" />
 
-Responsive client-side booking system with dynamic pricing and capacity validation.
+</p>
 
-- ✅ Applied input validation and front-end security controls
-- 🗂️ Used XML for structured, validated data handling — demonstrating data integrity awareness
-- 🗺️ Interactive park map with hover details and real-time price calculation
+<h3 align="center">Tools</h3>
+<p align="center">
+  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" />&nbsp;&nbsp;
+  <img src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-icon.svg" alt="VS Code" width="40" />&nbsp;&nbsp;
+  <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="Figma" width="40" />&nbsp;&nbsp;
+  <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="Postman" width="40" />
 
----
+</p>
 
-## 🏅 Certifications
+<p align="center">
+  <a href="https://github.com/Aaks1">
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Aaks1&langs_count=8&layout=compact&theme=nightowl&border_radius=10" alt="Top Languages" />
+  </a>
+</p>
 
-| Status | Certification |
-|--------|--------------|
-| ✅ Certified | Atlassian Jira Fundamentals |
-| ✅ Certified | Atlassian Confluence Fundamentals |
-| ✅ Completed | Pandas for Data Analysis — Kaggle (2025) |
-| 🔄 In Progress | Microsoft Azure Fundamentals (AZ-900) |
-| ✅ Completed | Linux CLI & Hardware Troubleshooting — Unitec BCS |
+![Top language](https://stats.pphat.top/languages?username=Aaks1)
+<br/>
 
----
+## 🔗 Connect with Me
+<p align="center">
+  <a href="https://www.linkedin.com/in/nav-aaks01/">
+    <img src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/LinkedIN.svg" alt="LinkedIn" width="40" />
+  </a>&nbsp;&nbsp;&nbsp;
+  <a href="mailto:nbisht5742@gmail.com">
+    <img src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/Gmail.svg" alt="Gmail" width="40" />
+  </a>
+</p>
 
-## 🧠 Skills
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/cyprieng/github-breakout/main/example/dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/cyprieng/github-breakout/main/example/light.svg" />
+  <img alt="Breakout Game" src="https://raw.githubusercontent.com/cyprieng/github-breakout/main/example/light.svg" />
+</picture>
 
-**Cybersecurity**
-`CIA Triad` `STRIDE` `CVE/CVSS` `Risk Management` `Vulnerability Assessment` `Threat Modelling`
+<p align="center"><a href="https://www.buymeacoffee.com/chamidudili" target="_blank"><img src="https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png" alt="Buy Me A Coffee" style="height: 41px !important;width: 174px !important;box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;-webkit-box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;" ></a></p>
 
-**Cyber Tools**
-`Nmap` `Wireshark` `Kali Linux`
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" alt="Bottom Line" width="100%" />
+</div>
 
-**Networking**
-`TCP/IP` `Routing & Switching` `DNS/DHCP/HTTP` `Packet Analysis`
-
-**Languages**
-`Python` `Java` `JavaScript` `C#` `HTML5` `CSS3` `SQL`
-
-**Databases & Cloud**
-`Firebase` `SQL Server` `SQLite` `MongoDB` `Azure`
-
-**Tools & Platforms**
-`Git` `GitHub` `Jira` `Confluence` `Android Studio` `Kali Linux` `Ubuntu`
-
-**Methodologies**
-`Agile` `SDLC` `OOP` `Data Structures & Algorithms` `Database Normalisation`
-
----
-
-## 💻 Tech Stack
-
-![Python](https://img.shields.io/badge/Python-3670A0?style=flat-square&logo=python&logoColor=ffdd54)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=flat-square&logo=javascript&logoColor=F7DF1E)
-![C#](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=csharp&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-039BE5?style=flat-square&logo=firebase)
-![Azure](https://img.shields.io/badge/Azure-0072C6?style=flat-square&logo=microsoftazure&logoColor=white)
-![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=flat-square&logo=kalilinux&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05033?style=flat-square&logo=git&logoColor=white)
-![Jira](https://img.shields.io/badge/Jira-0052CC?style=flat-square&logo=jira&logoColor=white)
-![Confluence](https://img.shields.io/badge/Confluence-172B4D?style=flat-square&logo=confluence&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat-square&logo=mongodb&logoColor=white)
-![NodeJS](https://img.shields.io/badge/Node.js-6DA55F?style=flat-square&logo=node.js&logoColor=white)
-
----
-
-## 📊 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Aaks1&theme=github_dark&hide_border=true&show_icons=true&title_color=00b4d8&icon_color=00b4d8)
-
-![GitHub Streak](https://nirzak-streak-stats.vercel.app/?user=Aaks1&theme=github-dark-blue&hide_border=true&ring=00b4d8&fire=00b4d8&currStreakLabel=00b4d8)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Aaks1&theme=github_dark&hide_border=true&layout=compact&title_color=00b4d8)
-
----
-
-> 📍 Auckland, NZ — Actively seeking cybersecurity opportunities. Let's connect!
